@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtherNet_ESCPOS_font", "EtherNet_ESCPOS_font\EtherNet_ESCPOS_font.csproj", "{AD5CB2A5-EC24-4B1A-9674-9F52004DAA44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtherNet_ESCPOS_barcode", "EtherNet_ESCPOS_barcode\EtherNet_ESCPOS_barcode.csproj", "{DA44CA27-1B72-4736-9891-0C2524F32C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtherNet_ESCPOS_pagemode", "EtherNet_ESCPOS_pagemode\EtherNet_ESCPOS_pagemode.csproj", "{E4EF917B-C76B-46B6-AF9B-E3D7ECBB034A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtherNet_ESCPOS_status", "EtherNet_ESCPOS_status\EtherNet_ESCPOS_status.csproj", "{8CD909A3-9B89-4B2B-804A-B379D0500552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtherNet_ESCPOS_operation", "EtherNet_ESCPOS_operation\EtherNet_ESCPOS_operation.csproj", "{0A950F11-DE9E-4F86-90B8-ED17EAA5E9E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtherNet_ESCPOS_hardware", "EtherNet_ESCPOS_hardware\EtherNet_ESCPOS_hardware.csproj", "{C874A325-07C0-41E1-85EB-DE1ACB37D20E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtherNet_ESCPOS_bitmap", "EtherNet_ESCPOS_bitmap\EtherNet_ESCPOS_bitmap.csproj", "{203A27AB-D3B4-41CF-9092-28EFAC5446D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5CB2A5-EC24-4B1A-9674-9F52004DAA44}.Debug|x86.ActiveCfg = Debug|x86
+		{AD5CB2A5-EC24-4B1A-9674-9F52004DAA44}.Debug|x86.Build.0 = Debug|x86
+		{AD5CB2A5-EC24-4B1A-9674-9F52004DAA44}.Release|x86.ActiveCfg = Release|x86
+		{AD5CB2A5-EC24-4B1A-9674-9F52004DAA44}.Release|x86.Build.0 = Release|x86
+		{DA44CA27-1B72-4736-9891-0C2524F32C3E}.Debug|x86.ActiveCfg = Debug|x86
+		{DA44CA27-1B72-4736-9891-0C2524F32C3E}.Debug|x86.Build.0 = Debug|x86
+		{DA44CA27-1B72-4736-9891-0C2524F32C3E}.Release|x86.ActiveCfg = Release|x86
+		{DA44CA27-1B72-4736-9891-0C2524F32C3E}.Release|x86.Build.0 = Release|x86
+		{E4EF917B-C76B-46B6-AF9B-E3D7ECBB034A}.Debug|x86.ActiveCfg = Debug|x86
+		{E4EF917B-C76B-46B6-AF9B-E3D7ECBB034A}.Debug|x86.Build.0 = Debug|x86
+		{E4EF917B-C76B-46B6-AF9B-E3D7ECBB034A}.Release|x86.ActiveCfg = Release|x86
+		{E4EF917B-C76B-46B6-AF9B-E3D7ECBB034A}.Release|x86.Build.0 = Release|x86
+		{8CD909A3-9B89-4B2B-804A-B379D0500552}.Debug|x86.ActiveCfg = Debug|x86
+		{8CD909A3-9B89-4B2B-804A-B379D0500552}.Debug|x86.Build.0 = Debug|x86
+		{8CD909A3-9B89-4B2B-804A-B379D0500552}.Release|x86.ActiveCfg = Release|x86
+		{8CD909A3-9B89-4B2B-804A-B379D0500552}.Release|x86.Build.0 = Release|x86
+		{0A950F11-DE9E-4F86-90B8-ED17EAA5E9E0}.Debug|x86.ActiveCfg = Debug|x86
+		{0A950F11-DE9E-4F86-90B8-ED17EAA5E9E0}.Debug|x86.Build.0 = Debug|x86
+		{0A950F11-DE9E-4F86-90B8-ED17EAA5E9E0}.Release|x86.ActiveCfg = Release|x86
+		{0A950F11-DE9E-4F86-90B8-ED17EAA5E9E0}.Release|x86.Build.0 = Release|x86
+		{C874A325-07C0-41E1-85EB-DE1ACB37D20E}.Debug|x86.ActiveCfg = Debug|x86
+		{C874A325-07C0-41E1-85EB-DE1ACB37D20E}.Debug|x86.Build.0 = Debug|x86
+		{C874A325-07C0-41E1-85EB-DE1ACB37D20E}.Release|x86.ActiveCfg = Release|x86
+		{C874A325-07C0-41E1-85EB-DE1ACB37D20E}.Release|x86.Build.0 = Release|x86
+		{203A27AB-D3B4-41CF-9092-28EFAC5446D4}.Debug|x86.ActiveCfg = Debug|x86
+		{203A27AB-D3B4-41CF-9092-28EFAC5446D4}.Debug|x86.Build.0 = Debug|x86
+		{203A27AB-D3B4-41CF-9092-28EFAC5446D4}.Release|x86.ActiveCfg = Release|x86
+		{203A27AB-D3B4-41CF-9092-28EFAC5446D4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
